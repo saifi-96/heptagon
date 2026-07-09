@@ -1,4 +1,4 @@
-/* Heptagon — shared interaction layer (no dependencies) */
+/* Heptagons — shared interaction layer (no dependencies) */
 
 document.addEventListener('DOMContentLoaded', () => {
   /* ---- Sticky header shadow on scroll ---- */
